@@ -25,7 +25,7 @@ export default function Logon() {
    
       </section>
 
-      <img src={heroesImg} width='60%' height='80%' alt="Heroes" />
+      <img src={heroesImg} height='90%' alt="Heroes" />
     </div>
   );
 }
